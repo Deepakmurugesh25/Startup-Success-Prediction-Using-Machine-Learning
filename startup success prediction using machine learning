@@ -1,0 +1,53 @@
+# Startup Success Prediction Using Machine Learning
+
+## M516 Business Project in Big Data & AI
+
+### Student Information
+
+- **Student Name:** Deepak Murugesh
+- **Student ID:** GH1039545
+
+---
+
+## Project Overview
+
+This project develops a machine learning framework to predict startup success using historical startup and investment data. The workflow includes data cleaning, exploratory data analysis, feature engineering, model development, and performance evaluation.
+
+---
+
+## Dataset
+
+- **Dataset:** merged_data.csv
+- **Source:** https://github.com/statistactics/predict-startup-success
+
+---
+
+## Technologies
+
+- Python
+- Google Colab
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- XGBoost
+- LightGBM
+
+---
+
+## Repository Contents
+
+- Startup_Success_Prediction_M516.ipynb
+- Startup_Success_Prediction_M516.html
+- merged_data.csv
+- requirements.txt
+- README.md
+
+---
+
+## Author
+
+Deepak Murugesh
+
+M516 Business Project in Big Data & AI
